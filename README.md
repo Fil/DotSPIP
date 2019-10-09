@@ -8,3 +8,5 @@ Les réglages sont les suivants:
 
 <img src="platypus-dotspip.png" width=776 />
 
+
+L'application DotSPIP est placée sous licence GNU/GPL. Le logo est une création de baroug.
