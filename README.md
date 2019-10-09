@@ -1,4 +1,4 @@
-Une application drag-drop qui convertit des textes de divers formats vers les raccourcis SPIP.
+Une application drag-drop qui convertit des textes de divers formats vers les {{raccourcis SPIP}}.
 
 <img src="dotspip-en-action.png" width=692 />
 
