@@ -2,6 +2,14 @@ Une application drag-drop qui convertit des textes de divers formats vers les ra
 
 <img src="dotspip-en-action.png" width=692 />
 
+
+## Téléchargement
+
+Les différentes versions sont téléchargeables dans l'onglet [releases](https://github.com/Fil/DotSPIP/releases).
+
+
+## Making-of
+
 Le code principal est un script en PHP, et l'emballage pour macOS est assuré par [Platypus](https://sveinbjorn.org/platypus). 
 
 Les réglages sont les suivants:
