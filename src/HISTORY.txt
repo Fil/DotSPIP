@@ -1,0 +1,43 @@
+﻿TODO
+
+* version word -> wordpress
+
+
+* version images => resize 500px
+ça il faut que je voie avec les gens qui s'y connaissent en images web pour que les réglages soient tip top
+
+
+
+
+19 janvier 2012
+---------------
+v 0.7
+   corrections typo de base
+
+v 0.6
+   gérer le presse-papiers (pas mur)
+
+
+18 janvier 2012
+---------------
+v 0.5
+   gérer le format epub
+   détection de la langue du document
+   guillemets auto (smart quotes)
+
+v 0.4
+   gerer les footnotes (notes de fin, pas notes de page) de word => notes spip
+   brouillon pour gérer les images
+
+v 0.3
+   drop d'url depuis Chrome, Firefox et Safari
+   (pour safari, il faut drop l'url sur la fenetre, sur l'icone ça ne semble pas fonctionner)
+
+17 janvier 2012
+---------------
+v 0.2
+   Fichiers doc, docx, rtf, html
+   Gestion d'erreurs
+
+v 0.1
+   Démonstration de faisabilité

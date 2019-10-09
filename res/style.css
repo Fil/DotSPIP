@@ -1,0 +1,64 @@
+body {
+	font-family:  "Lucida Grande";
+	background-color: white;
+	color: #111;
+	padding:10px;
+}
+
+#top {
+	position: fixed;
+	bottom:0;
+	left:0;
+	height:14px;
+	width:100%;
+	background-color: white;
+	__border-top: #666 solid 1px;
+	padding: 3px;
+
+}
+
+#footer {
+	position: fixed;
+	bottom:0;
+	left:0;
+	height:0px;
+	width:100%;
+	background: #ecc903;
+}
+
+#main {
+	padding-top: 5px;
+	padding-bottom: 40px;
+}
+
+textarea {
+	font-family: monaco;
+	font-face: 9px;
+	background-color: white;
+	width: 95%;
+	min-height: 200px;
+	max-height: 300px;
+	color: #222;
+}
+
+.error {
+    color: red;
+}
+
+.ok {
+    color: green;
+}
+
+a, a.visited {
+    color: green;
+    text-decoration: none;
+}
+
+.pbcopy {
+	color: #444;
+	font-size: smaller;
+}
+
+.minicon {
+	height:1px;position:fixed; top:4px;right:8px;
+}

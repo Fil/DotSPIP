@@ -1,0 +1,21 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Mon nom d'icone
+Type=Application
+Terminal=true
+Icon[fr_FR]=iconeappelée
+Exec=monscript.php
+Name[fr_FR]=nom 
+Icon=uneicone
+GenericName[fr_FR]=
+
+
+
+# 09:41 < azerttyu> et tu nommes ton fichier toto.desktop
+09:42 < azerttyu> valable pour gnome
+09:42 < azerttyu> pour les autres windows manager faut vérifier
+09:43 < azerttyu> tu peux virer les lignes [fr_FR] 
+09:43 < azerttyu> pour le coup elles font du bruit inutile
+09:45 < azerttyu> ça de te donne Icon=/home/km/media/images/2587b.jpg

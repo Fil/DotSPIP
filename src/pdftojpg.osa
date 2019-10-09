@@ -1,0 +1,12 @@
+#!/usr/bin/osascript
+
+tell application "Preview" to activate
+tell application "System Events" to tell process "Preview"
+	set theFile to "/Users/fil/Source/dotspip/tests/todo/format pdf.pdf"
+	open theFile
+	delay 10
+	keystroke "a" using {command down}
+	keystroke "c" using {command down}
+	keystroke "w" using {command down}
+end tell
+
