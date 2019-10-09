@@ -1,13 +1,17 @@
 Une application drag-drop qui convertit des textes de divers formats vers les {{raccourcis SPIP}}.
 
-<img src="dotspip-en-action.png" width=692 />
+<img src="img/dotspip-en-action.png" width=692 />
 
 
 ## Téléchargement
 
 Les différentes versions sont téléchargeables dans l'onglet [releases](https://github.com/Fil/DotSPIP/releases).
 
-Note: l'application n'est [pas signée](https://sveinbjorn.org/files/manpages/PlatypusDocumentation.html), ce qui provoque une alerte de sécurité de Gatekeeper lors de son premier lancement -- à faire avec le menu contextule du Finder (ctrl-click puis “Ouvrir”).
+Note: l'application n'est [pas signée](https://sveinbjorn.org/files/manpages/PlatypusDocumentation.html), ce qui provoque une alerte de sécurité de Gatekeeper lors de son premier lancement -- à faire avec le menu contextuel du Finder (ctrl-click puis “Ouvrir”).
+
+<img src="img/sign1-open.png" width=347 />
+
+<img src="img/sign2-ok.png" width=532 />
 
 
 ## Making-of
@@ -16,7 +20,7 @@ Le code principal est un script en PHP, et l'emballage pour macOS est assuré pa
 
 Les réglages sont les suivants:
 
-<img src="platypus-dotspip.png" width=776 />
+<img src="img/platypus-dotspip.png" width=776 />
 
 
 L'application DotSPIP est placée sous licence GNU/GPL. Le logo est une création de baroug.
